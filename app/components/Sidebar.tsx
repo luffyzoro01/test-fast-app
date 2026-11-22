@@ -9,6 +9,7 @@ const navLinks = [
   { href: "/about", label: "About" },
   { href: "/items", label: "Items" },
   { href: "/Testapi", label: "API JSON" },
+  { href:"/myfarm", label: "My farm"}
 ];
 
 export default function Sidebar() {
